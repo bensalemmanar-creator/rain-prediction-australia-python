@@ -6,8 +6,8 @@ A Python machine learning project that predicts **whether it will rain the next 
 
 | File | Description |
 |---|---|
-| [`Rain_Prediction_Australia.ipynb`](./Rain_Prediction_Australia.ipynb) | Full analysis notebook (Google Colab / Jupyter) |
-| [`Rain_Prediction_Presentation.pdf`](./Rain_Prediction_Presentation.pdf) | Key presentation (17 slides) |
+| [`Rain_Prediction_Australia.ipynb`](./Project_Rain_Predictionn.ipynb) | Full analysis notebook (Google Colab / Jupyter) |
+| [`Rain_Prediction_Presentation.pdf`](./Project_presentation_Rain_Prediction.pdf) | Key presentation (17 slides) |
 
 ## Business question
 
